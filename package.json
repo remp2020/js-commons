@@ -6,6 +6,10 @@
   "engines": {
     "node": ">=8.6"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remp2020/js-commons.git"
+  },
   "dependencies": {
     "datatables.net": "^1.10.19",
     "datatables.net-buttons": "^1.6.1",
